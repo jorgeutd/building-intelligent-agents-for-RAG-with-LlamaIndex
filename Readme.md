@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 3. Activate the virtual environment (e.g., `source venv/bin/activate` on Unix-based systems or `venv\Scripts\activate` on Windows).
 4. Install the required Python packages by running `pip install -r requirements.txt`.
 5. Set up the necessary environment variables (if applicable) in the `.env` file.
-6. Open the `RouterQueryEngine.ipynb` Jupyter Notebook and follow the instructions provided to build and interact with the Agentic Rag model.
+6. Open the `RouterQueryEngine.ipynb` Jupyter Notebook located inside of the notebooks folder and follow the instructions provided to build and interact with the Agentic Rag model.
 
 ## Contributing
 
